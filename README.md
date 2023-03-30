@@ -1,4 +1,4 @@
-#Two-Axis_machine
+<h1>Two-Axis_machine</h1>
 
 This code is an example of controlling microstepping motors with the X-NUCLEO-IHM02A1 motor driver using an STM32F4 microcontroller. The code uses a variety of headers and libraries to interface with the motor driver, read from an analog-to-digital converter (ADC), and interface with a computer via USART.
 
